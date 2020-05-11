@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65321" started-at="2019-11-26T23:13:36Z" finished-at="2019-11-26T23:14:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65321" started-at="2019-11-26T23:13:36Z" finished-at="2019-11-26T23:14:41Z">
+      <class name="amazonTest.amazonTest.amazonTest">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb]" name="startTest" is-config="true" duration-ms="3235" started-at="2019-11-26T18:13:36Z" finished-at="2019-11-26T18:13:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="firstCase()[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb]" name="firstCase" duration-ms="12829" started-at="2019-11-26T18:13:39Z" finished-at="2019-11-26T18:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstCase -->
+        <test-method status="PASS" signature="getTestResult(org.testng.ITestResult)[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb]" name="getTestResult" is-config="true" duration-ms="1" started-at="2019-11-26T18:13:52Z" finished-at="2019-11-26T18:13:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=firstCase status=SUCCESS method=amazonTest.firstCase()[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestResult -->
+        <test-method status="PASS" signature="secondCase()[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb]" name="secondCase" duration-ms="8865" started-at="2019-11-26T18:13:52Z" finished-at="2019-11-26T18:14:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondCase -->
+        <test-method status="PASS" signature="thirdCase()[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb]" name="thirdCase" duration-ms="8272" started-at="2019-11-26T18:14:01Z" finished-at="2019-11-26T18:14:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdCase -->
+        <test-method status="PASS" signature="getTestResult(org.testng.ITestResult)[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb]" name="getTestResult" is-config="true" duration-ms="0" started-at="2019-11-26T18:14:01Z" finished-at="2019-11-26T18:14:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=secondCase status=SUCCESS method=amazonTest.secondCase()[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestResult -->
+        <test-method status="PASS" signature="getTestResult(org.testng.ITestResult)[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb]" name="getTestResult" is-config="true" duration-ms="0" started-at="2019-11-26T18:14:09Z" finished-at="2019-11-26T18:14:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=thirdCase status=SUCCESS method=amazonTest.thirdCase()[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestResult -->
+        <test-method status="PASS" signature="fourthCase()[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb]" name="fourthCase" duration-ms="31419" started-at="2019-11-26T18:14:09Z" finished-at="2019-11-26T18:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthCase -->
+        <test-method status="PASS" signature="getTestResult(org.testng.ITestResult)[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb]" name="getTestResult" is-config="true" duration-ms="1" started-at="2019-11-26T18:14:40Z" finished-at="2019-11-26T18:14:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fourthCase status=SUCCESS method=amazonTest.fourthCase()[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestResult -->
+        <test-method status="PASS" signature="endreport()[pri:0, instance:amazonTest.amazonTest.amazonTest@589838eb]" name="endreport" is-config="true" duration-ms="644" started-at="2019-11-26T18:14:40Z" finished-at="2019-11-26T18:14:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endreport -->
+      </class> <!-- amazonTest.amazonTest.amazonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
